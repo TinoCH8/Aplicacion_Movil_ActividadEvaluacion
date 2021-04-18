@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Loglog</string>
+    <string name="tittle">Log In</string>
+    <string name="UserName">User Name</string>
+    <string name="Password">Password</string>
+    <string name="Go">Go</string>
+    <string name="Name">Name</string>
+    <string name="Level">Level</string>
+
+</resources>
